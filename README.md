@@ -1,5 +1,5 @@
-# Lokuri Website
+# BRAINBELLWORLD Website
 
-> Fake cloud hosting website used in this [YouTube tutorial](https://www.youtube.com/watch?v=p0bGHP-PXD4)
+> You can visit our YouTube Channel [YouTube Channel](https://www.youtube.com/@brainbellworld)
 
-> Fake cloud hosting website [Live Preview](https://zen-carson-c10c9f.netlify.app)
+> Check out my LinkedIn Page [LinkedIn Page](https://www.linkedin.com/in/abdulwasiu-olatunji/)
